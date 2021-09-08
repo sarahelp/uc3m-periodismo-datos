@@ -8,7 +8,11 @@ Notas y **ejercicios** sobre la asignatura
 
 ## HTTP
 Es una **API** que tiene cuatro tareas posibles:
-1. POST 
-2. GET
-3. DELETE
-4. PUT
+
+**1.** POST
+
+**2.** GET
+
+**3.** DELETE
+
+**4.** PUT
